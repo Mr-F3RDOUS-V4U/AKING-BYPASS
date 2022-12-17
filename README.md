@@ -1,1 +1,9 @@
-# AKING-BYPASS
+rm -rf AKING-BYPASS
+
+git clone https://github.com/Mr-F3RDOUS-V4U/AKING-BYPASS
+
+cd AKING-BYPASS
+
+chmod 777 AKING-BYPASS
+
+./AKING-BYPASS
